@@ -17,6 +17,7 @@
 - Dynamic Macros: Record and Replay Macros in Runtime
 - Rotary encoder
 - Commands (magic key) for debug
+- Dynamic Macros
 
 ## ANSI vs ISO backslash
 - KC_NONUS_BACKSLASH	KC_NUBS	Non-US \ and |	✔	✔	✔
