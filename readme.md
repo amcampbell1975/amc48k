@@ -10,6 +10,7 @@
 # QMK Features
 - Caps word  (tap both shift to activate next word caps lock)
 - Mouse emulation
+  - FN "Arrow keys" 
 - Dynamic Macros: Record and Replay Macros in Runtime
   - Lower "a" record 1
   - Lower "z" play 1
