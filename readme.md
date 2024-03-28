@@ -1,9 +1,17 @@
 # AMC48K
-![screenshot](amc48k_sideview.png)
+48 key Ortholinear keyboard.
+![screenshot](amc48k_front.png)
+- RP2040 promicro.
+- 48 RGB leds
+- Rotary encoder
+- 3D printed case, and plate.
 
 # Features
 - Caps word  (tap both shift to activate next word caps lock)
 - Mouse emulation
+
+![screenshot](amc48k_sideview.png)
+
 ## to do 
 - Dynamic Macros: Record and Replay Macros in Runtime
 - Rotary encoder
