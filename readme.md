@@ -13,3 +13,5 @@
 - KC_NONUS_BACKSLASH	KC_NUBS	Non-US \ and |	✔	✔	✔
 - KC_BACKSLASH	KC_BSLS	\ and |	✔	✔	✔
 
+- KC_NONUS_HASH	KC_NUHS	Non-US # and ~	✔	✔	✔
+
