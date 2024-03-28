@@ -1,5 +1,5 @@
 # AMC48K
-![screenshot](amc48k_sideview.png | width=100)
+![screenshot](amc48k_sideview.png|width=100)
 
 # Features
 - Caps word  (tap both shift to activate next word caps lock)
