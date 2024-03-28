@@ -15,3 +15,5 @@
 
 - KC_NONUS_HASH	KC_NUHS	Non-US # and ~	✔	✔	✔
 
+# RP2040 startup
+https://docs.qmk.fm/#/platformdev_rp2040?id=double-tap
