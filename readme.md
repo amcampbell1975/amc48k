@@ -7,7 +7,7 @@
 - Rotary encoder
 - 3D printed case, and plate.
 
-# Features
+# QMK Features
 - Caps word  (tap both shift to activate next word caps lock)
 - Mouse emulation
 
