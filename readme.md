@@ -1,6 +1,6 @@
 # AMC48K
 48 key Ortholinear keyboard.
-![screenshot](amc48k_front.jpg)
+![screenshot](amc48k_front.png)
 - RP2040 promicro.
 - 48 RGB leds
 - Rotary encoder
