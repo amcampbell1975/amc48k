@@ -10,14 +10,19 @@
 # QMK Features
 - Caps word  (tap both shift to activate next word caps lock)
 - Mouse emulation
+- Dynamic Macros: Record and Replay Macros in Runtime
+  - Lower "a" record 1
+  - Lower "z" play 1
+  - Lower "s" record 2
+  - Lower "x" play 2
+  - Lower "d" Stop recording 
 
 ![screenshot](amc48k_sideview.png)
 
 ## to do 
-- Dynamic Macros: Record and Replay Macros in Runtime
 - Rotary encoder
-- Commands (magic key) for debug
-- Dynamic Macros
+
+# Other stuff...
 
 ## ANSI vs ISO backslash
 - KC_NONUS_BACKSLASH	KC_NUBS	Non-US \ and |	✔	✔	✔
@@ -25,5 +30,5 @@
 
 - KC_NONUS_HASH	KC_NUHS	Non-US # and ~	✔	✔	✔
 
-# RP2040 startup
+## RP2040 startup
 https://docs.qmk.fm/#/platformdev_rp2040?id=double-tap
