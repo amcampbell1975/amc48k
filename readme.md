@@ -23,6 +23,12 @@
 ## to do 
 - Rotary encoder
 
+# How to Build
+- [Components](components/bom.md) required.
+- PCB *TBD*
+- Case *TBD*
+
+
 # Other stuff...
 
 ## ANSI vs ISO backslash
