@@ -2,5 +2,5 @@
 kicad
 
 # Schematic 
-pdf
+(amc48k.pdf)[amc48k.pdf]
 
