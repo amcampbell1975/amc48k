@@ -1,0 +1,6 @@
+# PCB 
+kicad
+
+# Schematic 
+pdf
+
